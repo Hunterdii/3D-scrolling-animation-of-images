@@ -9,9 +9,9 @@ A Pen created on CodePen.io. Original URL: [https://codepen.io/Hunterdii](https:
   
 - **DrawSVG Effect:** Add a touch of DrawSVG for dynamic and eye-catching start/finish animations.
 
-## Showcase
+## Showcase!
+![Gallery/Timeline Preview](https://github.com/Hunterdii/3D-scrolling-animation-of-images/assets/124852522/91bf2434-e527-4243-8ee2-d37e1a0e8846)
 
-![Gallery/Timeline Preview](https://github.com/Hunterdii/3D-scrolling-animation-of-images/assets/124852522/6013035e-29d3-446c-8afb-3cf403264ef7)
 ## Demo
 
 Check out the live demo on [CodePen](https://codepen.io/Hunterdii).
