@@ -25,7 +25,12 @@ Check out the live demo on [CodePen](https://codepen.io/Hunterdii).
 
 ## Video Walk-Through
 
-For a detailed video walk-through, visit [Frontend Horse](https://www.youtube.com/@alpharoman9602) and learn more about the creation process.
+For a detailed video walk-through, visit [Still I have not made either I update it later] and learn more about the creation process.
+## Socials
+
+- [LinkedIn](https://www.linkedin.com/in/het-patel-8b110525a/)
+- [Email](mailto:hunterdii9879@gmail.com)
+
 
 ## Credits
 
